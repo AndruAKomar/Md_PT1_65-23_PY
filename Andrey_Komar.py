@@ -16,6 +16,6 @@ sp_text=text.split()
 print('Шаг7 - Развернуть предложение -', ' '.join(sp_text[::-1]))
 
 print('Шаг8 - В консоль исходную строку- ', text)
-
+print ('test')
 
 
