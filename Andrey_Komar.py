@@ -18,6 +18,6 @@ print('Шаг7 - Развернуть предложение -', ' '.join(sp_tex
 print('Шаг8 - В консоль исходную строку- ', text)
 print ('test')
 
-New Branch Hello
+New Branch Hello!
 
 
