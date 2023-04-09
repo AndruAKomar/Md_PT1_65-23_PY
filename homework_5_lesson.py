@@ -1,11 +1,3 @@
-'''# 1. Если нет ни одого нуля - вывести: "Нет нулевых значений!!!"(Без if - использовать лень
-a=input('First number: ',)
-b=input('Second number: ',)
-c=input('Third number: ',)
-result = not a or not b or not c or "Нет нулевых значений!!!"
-print(result)
-'''
-
 a=int(input('First number: ',))
 b=int(input('Second number: ',))
 c=int(input('Third number: ',))
