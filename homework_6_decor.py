@@ -4,7 +4,7 @@ while True:
     def check_login(func):
         def decoder(login):
             if  login != 'admin':
-                return print('Логин не верный')
+                return print('Доступ запрещен')
             return func(login)
         return decoder
 
